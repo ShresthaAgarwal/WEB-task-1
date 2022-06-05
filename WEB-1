@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WEB-1</title>
+</head>
+<body>
+    <article>
+      <header>
+        <h1>About Myself</h1>
+        <br>
+        <img src="C:\Users\DELL PC\Downloads\girl.jpg"  width="460" height="345">
+        <br>
+        <p style="font-size:20px"><b>"Hello! my name is <u>SHRESTHA AGARWAL</u> , I am in 2nd year in branch CSE(AIML)."</b></p>
+      </header>    
+    </article>
+    
+    <div class="myDiv">
+    <h4><span style="color:blue;font-weight:bold">My Hobbies are: </span></h4>
+    <ol>
+        <li>reading</li>
+        <li>drawing</li>
+        <li>listening to music</li>
+      </ol> 
+    </div>  
+      
+</body>
+</html>
